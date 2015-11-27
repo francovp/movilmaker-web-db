@@ -1,0 +1,12 @@
+{
+    "name": "knil/movilmaker-web-db",
+    "description": "Movilmaker database web interface (using phpPgAdmin)",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Franco Valerio",
+            "email": "franco.gvp@hotmail.com"
+        }
+    ],
+    "require": {}
+}
